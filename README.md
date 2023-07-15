@@ -146,3 +146,10 @@ We look forward to connecting with you and hearing your thoughts, ideas, and exp
     <img src="https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date" alt="Star History Chart">
   </a>
 </p>
+
+## 🚀 Contributing
+
+We appreciate all contributions and thank all the contributors!
+<p align="center">
+  <img src="https://contributors-img.web.app/image?repo=Significant-Gravitas/Auto-GPT" />
+</p>
